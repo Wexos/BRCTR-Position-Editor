@@ -1,0 +1,12 @@
+﻿BRCTR Position Editor by Wexos © 2016
+Icon by Atlas/AtlasOmegaAlpha
+------------------------------------------------------------------------
+v1.0.0.0 || 2016-07-29
+First release
+------------------------------------------------------------------------
+v1.0.1.0 || 2016-08-21
+Fixed a save bug
+Updated BigEndianLibrary to the newest version
+------------------------------------------------------------------------
+v1.0.1.1 || 2016-09-09
+Changed some column names
